@@ -1,10 +1,10 @@
 msg=
 title=Project-Alpha
 adverturl=
-codebase=http://127.0.0.1/
+codebase=http://96.61.195.174/
 cachedir=.project-alpha
 storebase=0
-initial_jar=gamepack_237.jar
+initial_jar=gamepack_238.jar
 initial_class=client.class
 termsurl=
 privacyurl=
@@ -25,9 +25,9 @@ param=13=.project-alpha.com
 param=14=0
 param=15=0
 param=16=false
-param=17=http://127.0.0.1:8765/world_list.ws
+param=17=http://96.61.195.174:8765/world_list.ws
 param=18=
 param=19=196515767
 param=20=true
-param=21=43594
-param=25=237
+param=21=25565
+param=25=238
