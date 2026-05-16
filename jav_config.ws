@@ -4,7 +4,7 @@ adverturl=
 codebase=http://96.61.195.174/
 cachedir=.project-alpha
 storebase=0
-initial_jar=gamepack_237.jar
+initial_jar=gamepack_238.jar
 initial_class=client.class
 termsurl=
 privacyurl=
@@ -30,4 +30,4 @@ param=18=
 param=19=196515767
 param=20=true
 param=21=25565
-param=25=237
+param=25=238
