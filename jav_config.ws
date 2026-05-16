@@ -29,5 +29,5 @@ param=17=http://96.61.195.174:8765/world_list.ws
 param=18=
 param=19=196515767
 param=20=true
-param=21=25565
+param=21=43594
 param=25=238
